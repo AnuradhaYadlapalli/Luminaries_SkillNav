@@ -45,7 +45,7 @@ AI Mentor — Provides contextual assistance throughout the learner's journey.
 
 SkillNav uses a hybrid AI + deterministic approach.
 
-AI is used to understand natural-language learner inputs, while structured skill taxonomy, prerequisite relationships, and resource mappings provide consistency and explainability to the recommendation process.
+AI is used to understand natural-language learner inputs, while a structured skill taxonomy, prerequisite relationships, and resource mappings provide consistency and explainability to the recommendation process.
 
 Natural Language Input
           ↓
@@ -53,13 +53,13 @@ Natural Language Input
           ↓
     Canonical Skills
           ↓
-     Skill Graph
+      Skill Graph
           ↓
-     Skill Gaps
+      Skill Gaps
           ↓
-   Learning Path
+    Learning Path
           ↓
-  Resource Mapping
+   Resource Mapping
 
 This allows SkillNav to answer not only:
 
@@ -83,19 +83,25 @@ Zuveriya	Feature Engineering & Recommendation Support
 Lavanya	Backend / Application Development
 Meenakshi	UI / Application Development
 🚀 Getting Started
+1. Clone the repository
 git clone https://github.com/AnuradhaYadlapalli/Luminaries_SkillNav.git
+2. Navigate to the project
 cd Luminaries_SkillNav
+3. Install dependencies
 npm install
-npm run dev
+4. Configure environment variables
 
-Configure the required environment variables before running the application.
+Add the required environment variables to the project's environment configuration.
+
+5. Start the development server
+npm run dev
 🔗 Repository
 
-GitHub:
-https://github.com/AnuradhaYadlapalli/Luminaries_SkillNav
+GitHub — Luminaries_SkillNav
 
-🧭 SkillNav
+🏆 HCL Innovation Challenge
+
+Project: SkillNav
+Team: Luminaries
 
 Navigate Your Skills. Reach Your Career.
-
-Built by Team Luminaries for the HCL innovation challenge.
